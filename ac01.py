@@ -1,6 +1,6 @@
 #Código base para se comunicar com um leitor AC-01 via porta serial
 #Aldemir Melo Rocha Filho
-#Sandoval da Silva ALmeidsa Junior
+#Sandoval da Silva Almeida Junior
 #Tayco Murilo Santos Rodrigues
 
 #Comentários:
@@ -94,7 +94,7 @@ while(1):
         #Tratamos como tag viva e chamamos o tratamento devido
         aliveTagtreatment()
 
-    #Se a tag em 1.2s não retornou um string com menos de 30 caracteres que não é vazia 
+    #Se a tag em 1.2s retornou uma string com menos de 30 caracteres que não é vazia 
     else:
         #Tratamos como tag ativada e chamamos o tratamento devido
         activatedTagtreatment()
