@@ -1,7 +1,4 @@
 #Código base para se comunicar com um leitor AC-01 via porta serial
-#Aldemir Melo Rocha Filho
-#Sandoval da Silva Almeida Junior
-#Tayco Murilo Santos Rodrigues
 
 #Comentários:
 #A ideia foi tentar manter o código o mais modularizado possível
